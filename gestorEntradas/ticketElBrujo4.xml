@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entradas>
+<entrada>
+<nombre>Pedro</nombre>
+<apellido>Domenech Ramirez</apellido>
+<fecha>2015-06-01</fecha>
+<nombreEvento>ElBrujo</nombreEvento>
+<localizacion>TeatreRambleta</localizacion>
+<ciudad>Valencia</ciudad>
+<precio>20</precio>
+<idEntrada>c9f0f895fb98ab9159f51fd0297e236d</idEntrada>
+</entrada>
+</entradas>

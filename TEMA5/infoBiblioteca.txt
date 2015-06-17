@@ -1,0 +1,17 @@
+Last_id_prestamos 5
+Num_max_libros 50
+Num_max_usuarios 50
+Libros:
+-----------
+La Ciudad del Viento;autor1;2005;ed.Planeta;ISBNX;
+La catedral del mar;autor2;2004;ed.Libros;ISBNY;
+1984;autor3;1945;ed.anagrama;ISBN3940;
+Sin noticias de Gurb;Eduardo Mendoza;1995;ed.Espasa;ISBN8745;
+Prestamos:
+----------------;
+Luis;18465678;Av.Peris y Valero,14,Valencia,CP46028;3;
+0;La Ciudad del Viento;12/11/2014; 12/12/2014;-;cerrado;
+1;1984;20/01/2015;20/02/2015;+;activo;
+2;La catedral del mar;10/03/2015; 28/03/2015;+;activo;
+Ana;18404600;Av. Los naranjos, 2, Valencia CP 46021;1;
+5;Sin noticias de Gurb;15/04/2014;15/05/2014;-;cerrado;

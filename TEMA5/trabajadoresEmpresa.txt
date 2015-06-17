@@ -1,0 +1,12 @@
+20
+Alberto 27863827N 2 1800 carne
+Eva 24397052D 8 2300 carne
+Yolanda 39625036Z 10 2100 docu
+Ricardo 24397053X 24 1900 carne
+Alejandro 45682736B 2 1700 carne
+Maria 263772636G 4 1600 seco
+Meline 983769378H 8 2100 docu
+Birgit 7635830U 3 1200 fruta
+Alejandro 13487937H 4 1500 carne
+Damien 98726597K 15 3900 ventas
+Paco 34567890R 25 2800 cont

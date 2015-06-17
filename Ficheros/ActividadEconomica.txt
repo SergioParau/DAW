@@ -1,0 +1,8 @@
+Valencia 5 320000Barcelona 10 1500000Madrid 9 2300000M‡laga 3 265000Bilbao 6 400000Pontevedra 8 980000
+Zaragoza 4 345000
+Sevilla 9 1800000
+Valladolid 4 476000
+CiudadReal 2 134000
+Lugo 5 475000
+C‡diz 4 480000
+Tarragona 3 220000

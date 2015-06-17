@@ -1,0 +1,30 @@
+DL101 Valencia Paris 10:30 16:45
+5
+1 Luisa Millar
+2 Paco Gomez
+3 Marta Lopez
+4 Luisa Garcia
+6 Mario Jimenez
+=== === === === === === === ===
+DL201 Paris Valencia 15:00 21:15
+0
+=== === === === === === === ===
+DL102 Valencia Paris 16:00 22:15
+1
+1 Marta Arias
+=== === === === === === === ===
+DL202 Paris Valencia 10:10 16:25
+0
+=== === === === === === === ===
+DL103 Madrid Valencia 08:20 09:15
+0
+=== === === === === === === ===
+DL203 Valencia Madrid 20:00 20:45
+0
+=== === === === === === === ===
+DL104 Madrid Barcelona 06:05 07:15
+0
+=== === === === === === === ===
+DL204 Barcelona Madrid 15:00 16:15
+0
+=== === === === === === === ===

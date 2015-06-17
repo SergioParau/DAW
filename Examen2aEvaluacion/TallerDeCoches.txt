@@ -1,0 +1,7 @@
+numCoches 6
+87569T verde BMW 2 false
+87569K verde Mercedes 2 true
+5367HJK Negro Peugeot 1 false
+8765GHN Azul Mazda 2 false
+7653HJK Negro Nissan 1 false
+7636FRG Blanco Renault 4 false

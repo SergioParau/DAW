@@ -1,0 +1,81 @@
+AF101 Valencia Paris 10:30 16:45
+5
+2 Pepe Gomez
+4 Maria Llopis
+5 Luis Garcia
+6 Jesus Aser
+10 Hipolito Beltran
+=== === === === === === === ===
+AF201 Paris Valencia 15:00 21:15
+0
+=== === === === === === === ===
+AF102 Valencia Paris 16:00 22:15
+51
+1 Javier Escribano
+2 Pedro Sanchez
+3 Olga Gutierrez
+4 Sara Espinosa
+5 Andres Herranz
+6 Ruben Lozano
+8 Jose Calomarde
+9 Marina Sebastia
+10 Enrique Moreno
+11 Alberto Fabian
+12 Jorge Carreres
+13 Cristian Galbis
+14 Juan Sierra
+15 Mireia Gasco
+16 Rafael Soria
+17 David Sainz
+18 Beatriz Gonzalez
+19 Jacobo Abasolo
+20 Cristina Vaquer
+21 Victor Zaragoza
+22 Silvia Peinado
+23 Pablo Calpe
+24 Carlos Ponce
+25 Manuel Olmos
+26 Emilia Ramirez
+27 Sergio Candel
+28 Celia Valls
+29 Isabel Perello
+30 Guillem Navarro
+31 Marcos Iborra
+32 Jesus Abad
+33 Gonzalo Garrido
+34 Javier Ridaura
+35 Lourdes Talens
+36 Ferran Esteve
+37 Aleix Llorens
+38 Francisco Sevilla
+39 Inmaculada Gimeno
+40 Carmen Soler
+41 Adrian Fernandez
+42 Paula Pitarch
+43 Antonio Ramirez
+44 Maite Arandes
+45 Arturo Llansola
+46 Laura Rubio
+47 Ernesto Usach
+48 Nuria Agost
+49 Eliseo Andreu
+50 Pilar Vicent
+51 Enrique Salvador
+52 Minerva Salvador
+=== === === === === === === ===
+AF202 Paris Valencia 10:10 16:25
+0
+=== === === === === === === ===
+AF103 Madrid Paris 06:00 08:05
+0
+=== === === === === === === ===
+AF203 Paris Madrid 11:25 13:35
+1
+1 Eliseo Puertas
+=== === === === === === === ===
+AF104 Barcelona Milan 14:50 16:25
+0
+=== === === === === === === ===
+AF204 Milan Barcelona 22:20 23:55
+0
+=== === === === === === === ===

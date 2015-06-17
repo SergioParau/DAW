@@ -1,0 +1,6 @@
+Lavadora 349
+Cafetera 17
+Ordenador 567
+Cuberteria 75
+Mochila 80
+BolsaViaje 120
