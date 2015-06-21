@@ -1,4 +1,3 @@
-package examen3;
 
 public abstract class Edificio {
 
