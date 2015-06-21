@@ -66,10 +66,8 @@ public class Publicacion {
 	
 	public String toString(){
 		
-		String cadPub = "Titulo"  "+titulo+"\n +
-						"Anyo" + "+Anyo+"\n +
-						"isbn" + "+isbn+"\n +
-						"autor"+ "+Autor+"\n;
+		String cadPub = "Titulo" + "titulo\n" +"Anyo" + "+Anyo+\n" +"isbn" + "+isbn\n" +"autor"+ "Autor\n";
+		return cadPub;
 		
 	
 				

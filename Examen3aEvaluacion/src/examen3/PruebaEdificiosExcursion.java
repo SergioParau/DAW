@@ -30,7 +30,7 @@ public class PruebaEdificiosExcursion {
 		t2.anyadirObra("Obra anyadida 2");
 		t2.anyadirObra("Obra anyadida 3");
 
-		HashMap<Integer, Edificio> itinerario = new HashMap<>();
+		HashMap<Integer, Edificio> itinerario = new HashMap<Integer, Edificio>();
 		itinerario.put(1, t1);
 		itinerario.put(2, m);
 		itinerario.put(3, t2);
